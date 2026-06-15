@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://resume-matcher-backend-y0ja.onrender.com/";
+const BASE_URL = "https://resume-matcher-backend-y0ja.onrender.com";
 
 /**
  * Send a PDF resume to the backend and get back:
