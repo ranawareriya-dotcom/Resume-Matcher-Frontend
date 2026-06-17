@@ -92,11 +92,14 @@ Frontend is deployed using Vercel.
 -Mobile Application
 
 <br>
+<br>
 **Author
 
 -Riya Ranaware
+<br>
 -M.Sc. Data Science
 
+<br><br>
 **License
 
 This project is developed for educational and learning purposes.
