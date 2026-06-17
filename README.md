@@ -33,17 +33,19 @@ src/
 │ ├── JobMatches
 │ ├── GapAnalysis
 │ └── ScoreChart
-│
+│<br>
 ├── services/
 │ └── api.js
-│
+│<br>
 ├── App.jsx
 └── main.jsx
 
 **Install Dependencies
+<br>
 npm install
-
+<br>
 **Run Development Server
+<br>
 npm run dev
 
 **Application will run on:
@@ -65,6 +67,7 @@ const BASE_URL = "https://your-backend.onrender.com";
 Frontend is deployed using Vercel.
 
 **Future Enhancements
+<br>
 ATS Score Calculation
 Course Recommendations
 User Authentication
