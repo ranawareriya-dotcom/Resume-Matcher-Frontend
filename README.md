@@ -26,18 +26,27 @@ This application allows users to upload their resumes, analyze skills, view matc
 
 ## Project Structure
 src/
+<br>
 │
+<br>
 ├── components/
+<br>
 │ ├── UploadZone
+<br>
 │ ├── SkillsPanel
+<br>
 │ ├── JobMatches
+<br>
 │ ├── GapAnalysis
+<br>
 │ └── ScoreChart
 │<br>
 ├── services/
+<br>
 │ └── api.js
 │<br>
 ├── App.jsx
+<br>
 └── main.jsx
 
 **Install Dependencies
@@ -68,16 +77,16 @@ Frontend is deployed using Vercel.
 
 **Future Enhancements
 <br>
-ATS Score Calculation
-Course Recommendations
-User Authentication
-Real-Time Job Listings
-Mobile Application
+-ATS Score Calculation
+-Course Recommendations
+-User Authentication
+-Real-Time Job Listings
+-Mobile Application
 
 **Author
 
-Riya Ranaware
-M.Sc. Data Science
+-Riya Ranaware
+-M.Sc. Data Science
 
 **License
 
