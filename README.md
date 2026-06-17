@@ -57,6 +57,7 @@ npm install
 <br>
 npm run dev
 
+<br>
 **Application will run on:
 
 http://localhost:5173
@@ -67,22 +68,30 @@ Update API URL inside:
 
 src/services/api.js
 
+<br>
 **Example:
 
 const BASE_URL = "https://your-backend.onrender.com";
 
+<br>
 **Deployment
 
 Frontend is deployed using Vercel.
 
+<br>
 **Future Enhancements
 <br>
 -ATS Score Calculation
+<br>
 -Course Recommendations
+<br>
 -User Authentication
+<br>
 -Real-Time Job Listings
+<br>
 -Mobile Application
 
+<br>
 **Author
 
 -Riya Ranaware
